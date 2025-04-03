@@ -13,8 +13,8 @@ describe('All Login Tests', function () {
 
 	it('Login with valid credentials', function () {
 
-		loginPage.enterusername('yuliia.hnidan@caspio.com')
-		loginPage.enterpassword('Caspio123!')
+		loginPage.enterusername('yuliia.hnidan@qwerty.com')
+		loginPage.enterpassword('Qwerty123!')
 	})
 
 })
