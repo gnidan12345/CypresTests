@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\e2e",
+    "\\cypress\\e2e\\pages",
+    "\\cypress\\fixtures",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\cypress\\e2e\\login_tests.cy.js",
+  "PreviewInSolutionExplorer": false
+}
